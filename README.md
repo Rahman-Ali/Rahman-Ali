@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahman-Ali
-- 👀 I’m interested in the Coding
-- 🌱 I am presently learning Back-End development
+- 👀 I’m interested in coding
+- 🌱 I am presently implementing AI Solutions
 - 💞️ I am interested in collaborating on open-source projects.
 - 😄 Pronouns: Me Myself & I
 - ⚡ Fun fact: 👨🏼‍💻
