@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E6F8E&center=true&vCenter=true&width=650&lines=Shipping+production+RAG+%26+agentic+AI+systems;Multilingual+chatbots+%C2%B7+Computer+vision+%C2%B7+AutoML+platforms;Owning+projects+end-to-end%2C+client+to+deployment" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&width=750&height=30&center=true&vCenter=true&color=2E6F8E&multiline=false&lines=Shipping+production+RAG+%26+agentic+AI+systems;Multilingual+chatbots+%C2%B7+Computer+vision;Owning+projects+end-to-end%2C+client+to+deployment" />
 </p>
 
 <p align="center">
@@ -27,10 +25,10 @@ I build AI systems that ship — not just notebooks. Over the past few months I'
 
 ```txt
 const rahman = {
-    role:        "Full-Stack AI Engineer",
-    focus:       ["RAG", "LangGraph & Agents", "Computer Vision", "Full-Stack Delivery"],
+    role:              "Full-Stack AI Engineer",
+    focus:             ["RAG", "LangGraph & Agents", "Computer Vision", "Full-Stack Delivery"],
     currentlyBuilding: "Production-grade multi-agent & RAG systems",
-    openTo:      "Full-Stack AI Engineer roles",
+    openTo:            "Full-Stack AI Engineer roles",
 };
 ```
 
@@ -107,7 +105,7 @@ Explainable-AI medical triage chatbot for rural Pakistan, supporting Urdu and En
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahman-Ali&hide_border=true&background=FFFFFF00&ring=2E6F8E&fire=2E6F8E&currStreakLabel=2E6F8E" />
+  <img src="https://streak-stats.demolab.com/?user=Rahman-Ali&hide_border=true&background=FFFFFF00&ring=2E6F8E&fire=2E6F8E&currStreakLabel=2E6F8E" />
 </p>
 
 <p align="center">
