@@ -97,23 +97,6 @@ Explainable-AI medical triage chatbot for rural Pakistan, supporting Urdu and En
 
 <br/>
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahman-Ali&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2E6F8E&icon_color=2E6F8E" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman-Ali&layout=compact&hide_border=true&title_color=2E6F8E" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rahman-Ali&hide_border=true&background=FFFFFF00&ring=2E6F8E&fire=2E6F8E&currStreakLabel=2E6F8E" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahman-Ali&theme=flat&no-frame=true&column=6&margin-w=10&title=PullShark,Followers" />
-</p>
-
-<br/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6F8E,100:1F3B57&height=100&section=footer" />
 </p>
