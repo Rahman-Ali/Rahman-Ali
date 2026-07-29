@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3B57,100:2E6F8E&height=200&section=header&text=Rahman%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer&descAlignY=55&descSize=22" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rahman-Ali/Rahman-Ali/main/assets/banner.svg" width="100%" alt="Rahman Ali — Full-Stack AI Engineer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&width=750&height=30&center=true&vCenter=true&color=2E6F8E&multiline=false&lines=Shipping+production+RAG+%26+agentic+AI+systems;Multilingual+chatbots+%C2%B7+Computer+vision;Owning+projects+end-to-end%2C+client+to+deployment" alt="typing banner" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahmanali7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rahmanali8485462@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open_to-Full--Stack_AI_Engineer_roles-2E6F8E?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/rahmanali7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:rahmanali8485462@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <img src="https://img.shields.io/badge/Open_to-Full--Stack_AI_Engineer_roles-2E6F8E?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -17,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3B57,100:2E6F8E&height=3&width=100%25" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rahman-Ali/Rahman-Ali/main/assets/divider.svg" width="100%"/>
 </p>
 
 ### About Me
@@ -34,7 +28,7 @@ const rahman = {
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3B57,100:2E6F8E&height=3&width=100%25" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rahman-Ali/Rahman-Ali/main/assets/divider.svg" width="100%"/>
 </p>
 
 ### Featured Work
@@ -56,7 +50,7 @@ Explainable-AI medical triage chatbot for rural Pakistan, supporting Urdu and En
 `React Native` `Django` `Neo4j` `RAG` `xAI`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3B57,100:2E6F8E&height=3&width=100%25" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rahman-Ali/Rahman-Ali/main/assets/divider.svg" width="100%"/>
 </p>
 
 ### Tech Stack
@@ -66,18 +60,11 @@ Explainable-AI medical triage chatbot for rural Pakistan, supporting Urdu and En
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG-1F3B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1F3B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-1F3B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-1F3B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI_API-1F3B57?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/YOLO-2E6F8E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/InsightFace-2E6F8E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PySpark-2E6F8E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Airflow-2E6F8E?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/Rahman-Ali/Rahman-Ali/main/assets/tech-stack.svg" width="100%" alt="Tech stack"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6F8E,100:1F3B57&height=100&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rahman-Ali/Rahman-Ali/main/assets/divider.svg" width="100%"/>
 </p>
+
+<p align="center"><sub>Thanks for stopping by — always open to a conversation about AI engineering roles.</sub></p>
